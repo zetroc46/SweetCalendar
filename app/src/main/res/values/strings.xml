@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalendarSweet</string>
+    <string name="atras"><![CDATA[<-]]></string>
+    <string name="siguiente"><![CDATA[->]]></string>
+</resources>
